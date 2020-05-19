@@ -1,19 +1,29 @@
-Dive Into Boston and Seattle Airbnb Data
-Project Motivation
-Based on Cross-Industry Standard Process of Data Mining (CRISP-DM), the Boston and Seatle Airbnb datasets were collected and investigated. Three bisinuess questions were asked and answered:
+# Write-A-Data-Science-Blog-Post
+Project in Data Scientist Nanodegree of Udacity
 
-Is there any noticeable difference between Seattle and Boston Airbnb?
-What are the most important features to estimate Airbnb rental price?
-What are the top amenities people needs most?
-File Description
-A Descriptive Jupyter Notebook
-Two datasets: Detailed Listings data for Boston and Seattle which were collected Aug.19th. Dataset Link: http://insideairbnb.com/get-the-data.html
-Results of the analysis
-Results and discussion were published on Medium: Dive Into Boston and Seattle Airbnb Data
+Table of Contents
+1.Installation
+2.Project Motivation
+3.File Descriptions
+4.Results
+5.Licensing, Authors, and Acknowledgements
 
-In this project, I dived into the most recent Airbnb Boston and Seattle dataset and found many interesting phenomenom:
+# Installation
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
-We gathered the Boston and Seattle Airbnb data, and compare the two dataset.
-We established a machine learning model to predict the rental price for both cities.
-We took a look at the feature importance of the trained model and check if they make sense.
-We list all the important amenities to get a better feeling how host can make more money by providing better services to meet customers’ need.
+# Project Motivation
+For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+
+As a programmer, should I go to work in the western world (e.g. America, Europe, etc.) or remain in the eastern world (e.g. India, China, etc.)?
+What is the salary difference in the western world and in the eastern world?
+How are the programmers satisfying about their job between these two sides of the world?
+Are there more jobs opportunity in the western world than that in the eastern world?
+
+# File Descriptions
+The notebook available here showcases work related to the above questions.
+
+# Results
+The main findings of the code can be found at the post available here.
+
+# Licensing, Authors, Acknowledgements
+Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
